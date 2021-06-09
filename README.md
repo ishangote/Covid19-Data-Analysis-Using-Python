@@ -19,9 +19,13 @@ We consider the following datasets for our analysis; COVID19 dataset, published 
 ## Visualizations
 
 #### GDP vs maximum Infection rate
+![GDP](visualizations/gdp.png)
 
 #### Social support vs maximum Infection rate
+![Social](visualizations/social.png)
 
 #### Healthy life expectancy vs maximum Infection rate
+![Healthy](visualizations/healthy.png)
 
 #### Freedom to make life choices vs maximum Infection rate
+![Freedom](visualizations/freedom.png)
