@@ -29,3 +29,8 @@ We consider the following datasets for our analysis; COVID19 dataset, published 
 
 #### Freedom to make life choices vs maximum Infection rate
 ![Freedom](visualizations/freedom.png)
+
+## Accomplishment
+
+![Certification](certificate.pdf)
+
