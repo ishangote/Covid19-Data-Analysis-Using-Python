@@ -2,7 +2,7 @@
 
 ## Project Objectives
 
-We consider the following datasets for our analysis; COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country and another dataset consist of various life factors, scored by the people living in each country around the globe. The objective of this project is to analyze these two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
+We consider the following datasets for our analysis; COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country and World happiness report dataset consist of various life factors, scored by the people living in each country around the globe. The objective of this project is to analyze these two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
 
 ## Tasks:
 
